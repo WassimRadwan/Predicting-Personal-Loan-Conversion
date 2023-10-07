@@ -26,5 +26,5 @@ Use the cleaned data set for next questions.
 Ignoring the variables containing text, i.e., names, addresses and designations, explore the data with respect to the goal of the bank. Present your four most important results also using visualizations. What are your insights?
 ## 3.Business Analytics
 Who is or are the most successful financial advisor(s)? Discuss your results. Hint: How could “successful” be defined? There might be multiple possible definitions.
-## 4.
-Machine Learning Partition the data into training (75%) and test (25%) sets. Use a number of different machine learning techniques and evaluate the algorithms. Show the classification matrix for the test data that results from using the best model. Clearly explain your results. How well did your model help you achieve the objective?
+## 4.Machine Learning 
+Partition the data into training (75%) and test (25%) sets. Use a number of different machine learning techniques and evaluate the algorithms. Show the classification matrix for the test data that results from using the best model. Clearly explain your results. How well did your model help you achieve the objective?
